@@ -5,6 +5,7 @@
 <br /> 
 <body bgcolor = "LightSkyBlue">
 <h><strong>About Me</strong></h> 
+ <br>
 <p> I like to swim and listen to music. My favorite food is pizza.</p>
 <br /> 
 <h3>My favorite website</h3>
