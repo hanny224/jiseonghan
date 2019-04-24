@@ -4,10 +4,8 @@
 </p>
 <br> 
 <body bgcolor = "LightSkyBlue">
-<h><strong>About Me</strong></h> 
- <br>
+<h2><strong>About Me</strong></h2> 
 <p> I like to swim and listen to music. My favorite food is pizza.</p>
-<br /> 
-<h3>My favorite website</h3>
+<h2>My favorite website</h2>
 <a href="https://www.romphim.com/">Click here to go to my favorite site!</a>
 </body>
