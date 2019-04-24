@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/49727445/56463440-cfdca200-6399-11e9-9adb-19adc5bd705e.jpg">
 </p>
 <br> 
-<body bgcolor="blue">
+<body bgcolor = "LightSkyBlue">
 <h><strong>About Me</strong></h> 
  <br>
 <p> I like to swim and listen to music. My favorite food is pizza.</p>
