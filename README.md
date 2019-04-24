@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <body>
 <h1 align="center">My name is Jiseong Han. Welcome to my site!</h1>
 <p align="center">
