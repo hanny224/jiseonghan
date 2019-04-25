@@ -1,5 +1,4 @@
 
-<html>
 <head>
 <body bgcolor="green">
 <h1 align="center">My name is Jiseong Han. Welcome to my site!</h1>
@@ -13,4 +12,4 @@
   <h2>My favorite website</h2>
   <a href="https://www.romphim.com/">Click here to go to my favorite site!</a>
 </body>
-</html>
+
